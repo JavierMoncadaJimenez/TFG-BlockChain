@@ -13,7 +13,7 @@ The basic learning guide is a concise document that aims to help students unders
 the internal theory of blockchain technology. It provides a clear and simplified explanation of
 basic blockchain concepts such as data structure, cryptography, blocks, and transactions. The
 document aims to provide a solid theoretical knowledge base for students to understand the
-functioning and key characteristics of blockchain technology. You can find this part in the link https://tinyurl.com/tfg-uni (Is in spanish)
+functioning and key characteristics of blockchain technology. You can find this part at the following link https://tinyurl.com/tfg-uni (is in Spanish)
 
 The complementary tool (this code) is a simple application that provides students with the
 opportunity to interact and visually experiment with the theoretical concepts of blockchain
